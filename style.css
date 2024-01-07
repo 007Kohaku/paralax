@@ -46,7 +46,7 @@ body {
   z-index: 100;
 }
 
-.paralax img#rockett {
+.paralax img#rocket {
   transform: rotateY(180deg);
   /* top: 80px;
     left: -80px; */

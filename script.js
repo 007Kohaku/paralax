@@ -1,6 +1,6 @@
 let stars = document.getElementById('stars');
 let meteorid = document.getElementById('meteorid');
-let rocket = document.getElementById('rockett');
+let rocket = document.getElementById('rocket');
 let text = document.getElementById('text');
 let button = document.getElementById('button');
 
